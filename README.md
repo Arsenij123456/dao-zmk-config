@@ -1,4 +1,4 @@
-# ZMK Firmware for Dao keyboardd
+# ZMK Firmware for Dao keyboard
 
 This is a repository for a ZMK Firmware for both Dao42 and Dao44 keyboards.
 
